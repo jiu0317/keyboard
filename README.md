@@ -6,7 +6,7 @@
 (업데이트 예정)
 
 ## Ergogen
-yaml 로 키보드 배열을 만들  수 있는 툴
+인체공학적 키보드 레이아웃을 만들  수 있는 툴
 
 [사용하러가기](https://ergogen.cache.works/)
 
