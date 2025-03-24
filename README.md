@@ -1,9 +1,10 @@
 # K-net Keyboard Group
+(업데이트 예정)
 
 ## Contents
 - [Ergogen](#Ergogen)
 - [KiCad](#KiCad)
-(업데이트 예정)
+
 
 ## Ergogen
 인체공학적 키보드 레이아웃을 만들  수 있는 툴
